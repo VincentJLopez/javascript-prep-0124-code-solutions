@@ -5,10 +5,18 @@
 Answer the following questions in the provided markdown file before turning in this exercise:
 
 - What tag is needed to load JavaScript scripts into an HTML document?
-
+```
+the tag is <script>
+```
 - How do you use a script tag to write JavaScript directly in the HTML document?
+```
+by adding a console.log() within the <script> element
+```
 
 - How do you use a script tag to load an external JavaScript file?
+```
+by adding an src attribute with a value of "main.js" within the <script>
+```
 
 ## Notes
 
