@@ -22,7 +22,7 @@ The <h1>
 ```
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
 ```
-At the beggining of the HTML document
+At the beggining of the HTML document.
 ```
 
 ## Notes
