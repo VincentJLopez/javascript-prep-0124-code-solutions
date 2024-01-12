@@ -18,7 +18,7 @@ declaration array_name = [item1, item2, ...];
 ```
 - How can you access the last element of an array?
 ```
-by subtracting 1 from the number displayed from the length variable.
+by subtracting 1 from the length variable created ealier.
 ```
 ## Notes
 
